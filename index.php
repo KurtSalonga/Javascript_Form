@@ -6,7 +6,7 @@
 	<title>Javascript Form</title>
 </head>
 <body>
-<form action="action_page.php method="POST">
+<form action="action_page.php" method="POST">
   <fieldset>
     <legend>Personalia:</legend>
     <label for="fname">First name:</label>
